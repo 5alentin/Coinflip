@@ -2,8 +2,8 @@
   "name": "Coin Flip",
   "short_name": "Coin Flip",
   "description": "Simple coin flip app",
-  "start_url": "/CoinDecide/index.html",
-  "scope": "/CoinDecide/",
+  "start_url": "/coinflip/index.html",
+  "scope": "/coinflip/"
   "display": "standalone",
   "background_color": "#1e1e1e",
   "theme_color": "#1e1e1e",
